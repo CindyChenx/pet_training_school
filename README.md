@@ -22,5 +22,3 @@ To begin using this program either log into your account or create a new account
 
 Petowners have the ability to add their pets to their accounts with information about this pet's name, species, gender, and age. A petowner can maintain their own account and maintain a unique profile for each of their pets. A petowner can alse find information about schools, trainers, and the classes that are available for their pets. They can also book classes for their individual pets through this program. If a petowner no longer wants their pet to attend a training class, they can simply cancel their booking through this program.
 
-
-# project_pet_training_school
